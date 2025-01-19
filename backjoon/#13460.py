@@ -1,7 +1,4 @@
 #13460
-
-
-#13460
 class Ball:
     def __init__(self, name, pos_x, pos_y, trace_mark):
         self.ball_type = name
